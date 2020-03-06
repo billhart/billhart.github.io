@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bill Hart - Art and Technology</title>
+    <link href="https://billhart.github.io/feed.xml" rel="self" />
+    <link href="https://billhart.github.io" />
+    <updated>2020-03-06T15:55:11+11:00</updated>
+    <author>
+        <name>Bill Hart</name>
+    </author>
+    <id>https://billhart.github.io</id>
+
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>Bill Hart</name>
+        </author>
+        <link href="https://billhart.github.io/test-post.html"/>
+        <id>https://billhart.github.io/test-post.html</id>
+
+        <updated>2020-03-06T15:55:03+11:00</updated>
+            <summary>
+                <![CDATA[
+                    test 1 2 3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 1 2 3</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

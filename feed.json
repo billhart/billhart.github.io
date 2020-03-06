@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bill Hart - Art and Technology",
+    "description": "",
+    "home_page_url": "https://billhart.github.io",
+    "feed_url": "https://billhart.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bill Hart"
+    },
+    "items": [
+        {
+            "id": "https://billhart.github.io/test-post.html",
+            "url": "https://billhart.github.io/test-post.html",
+            "title": "test post",
+            "summary": "test 1 2 3",
+            "content_html": "<p>test 1 2 3</p>",
+            "author": {
+                "name": "Bill Hart"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-06T15:55:03+11:00",
+            "date_modified": "2020-03-06T15:55:03+11:00"
+        }
+    ]
+}
