@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://billhart.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://billhart.github.io/billhart.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://billhart.github.io/</loc>
+<loc>https://billhart.github.io/billhart.github.io/</loc>
 </url>
 <url>
-<loc>https://billhart.github.io/test-post.html</loc>
-<lastmod>2020-03-06T15:55:03+11:00</lastmod>
+<loc>https://billhart.github.io/billhart.github.io/curriculum-vitae.html</loc>
+<lastmod>2020-04-17T15:34:11+10:00</lastmod>
+</url>
+<url>
+<loc>https://billhart.github.io/billhart.github.io/skills.html</loc>
+<lastmod>2020-04-17T15:39:09+10:00</lastmod>
+</url>
+<url>
+<loc>https://billhart.github.io/billhart.github.io/trespass.html</loc>
+<lastmod>2020-04-17T15:54:32+10:00</lastmod>
+</url>
+<url>
+<loc>https://billhart.github.io/billhart.github.io/wire-and-water.html</loc>
+<lastmod>2020-04-17T15:55:47+10:00</lastmod>
 </url>
 </urlset>

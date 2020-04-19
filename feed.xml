@@ -1,31 +1,635 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bill Hart - Art and Technology</title>
-    <link href="https://billhart.github.io/feed.xml" rel="self" />
-    <link href="https://billhart.github.io" />
-    <updated>2020-03-06T15:55:11+11:00</updated>
+    <link href="https://billhart.github.io/billhart.github.io/feed.xml" rel="self" />
+    <link href="https://billhart.github.io/billhart.github.io" />
+    <updated>2020-04-19T18:20:10+10:00</updated>
     <author>
         <name>Bill Hart</name>
     </author>
-    <id>https://billhart.github.io</id>
+    <id>https://billhart.github.io/billhart.github.io</id>
 
     <entry>
-        <title>test post</title>
+        <title>Trespass</title>
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billhart.github.io/test-post.html"/>
-        <id>https://billhart.github.io/test-post.html</id>
+        <link href="https://billhart.github.io/billhart.github.io/trespass.html"/>
+        <id>https://billhart.github.io/billhart.github.io/trespass.html</id>
+            <category term="video"/>
+            <category term="art works"/>
+            <category term="1992"/>
 
-        <updated>2020-03-06T15:55:03+11:00</updated>
+        <updated>2020-04-17T15:54:32+10:00</updated>
             <summary>
                 <![CDATA[
-                    test 1 2 3
+                     Trespass, 1992, Another analogue video I made as a second year BFA student. Shot in and around Remarkable Cave, Tasman Peninsula, Tasmania. A bunch of local boys having fun throwing video cameras off cliffs and also considering their identity at a time of emerging&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test 1 2 3</p>
+                <p> </p>
+<p><em><iframe width="640" height="512" src="https://player.vimeo.com/video/118452224" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe>Trespass</em>, 1992, Another analogue video I made as a second year BFA student.   Shot in and around Remarkable Cave, Tasman Peninsula, Tasmania. A bunch of local boys having fun throwing video cameras off cliffs and also considering their identity at a time of emerging awareness of indigenous culture. Tasman peninsula is a special place; site of extraordinary beauty, massacres, brutal penal colonies and honeymooners swept from the rocks by freak waves.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wire and Water</title>
+        <author>
+            <name>Bill Hart</name>
+        </author>
+        <link href="https://billhart.github.io/billhart.github.io/wire-and-water.html"/>
+        <id>https://billhart.github.io/billhart.github.io/wire-and-water.html</id>
+            <category term="video"/>
+            <category term="art works"/>
+            <category term="1992"/>
+
+        <updated>2020-04-17T15:55:47+10:00</updated>
+            <summary>
+                <![CDATA[
+                     This is an analogue video I made as a second year BFA student - its still a favourite of mine. You don't have to have sophisticated digital technology to create visual effects. Simple keying and shooting through a fish tank filled with water creates&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><iframe width="640" height="512" src="https://player.vimeo.com/video/118452222" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p>This is an analogue video I made as a second year BFA student - its still a favourite of mine.</p>
+<p>You don't have to have sophisticated digital technology to create visual effects. Simple keying and shooting through a fish tank filled with water creates the rippling text.</p>
+<p>One of the most interesting trends in the past few years is the move to working with hybrid approaches to media.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Skills</title>
+        <author>
+            <name>Bill Hart</name>
+        </author>
+        <link href="https://billhart.github.io/billhart.github.io/skills.html"/>
+        <id>https://billhart.github.io/billhart.github.io/skills.html</id>
+
+        <updated>2020-04-17T15:39:09+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Curriculum Vitae</title>
+        <author>
+            <name>Bill Hart</name>
+        </author>
+        <link href="https://billhart.github.io/billhart.github.io/curriculum-vitae.html"/>
+        <id>https://billhart.github.io/billhart.github.io/curriculum-vitae.html</id>
+
+        <updated>2020-04-17T15:34:11+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Education 2008 Ph.D., University of Tasmania, Thesis: Knowledge, Knowing and Being: An Investigation of Software Art as Vehicle for the Exploration of Emerging Concepts in Language and Cognition1984 B. Sc. (Hons) Theoretical Phyisics, University of Tasmania Employment 1994-2020 University of Tasmania Head of Discipline Art 2018 (School of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%; height: 10525px;" border="1">
+<tbody>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">Education</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;" width="112">2008</td>
+<td style="width: 2.64993%; height: 108px;" width="19"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">Ph.D., University of Tasmania, Thesis: Knowledge, Knowing and Being: An Investigation of Software Art as Vehicle for the Exploration of Emerging Concepts in Language and Cognition</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">1984</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">B. Sc. (Hons) Theoretical Phyisics, University of Tasmania</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"><strong>Employment</strong></td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">1994-2020</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">University of Tasmania</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Head of Discipline Art 2018 (School of Creative Arts)
+<ul style="list-style-type: circle;">
+<li>Restructure Technical Officers positions and support model</li>
+<li>BFA significant amendments to conform to current UTas degree model</li>
+<li>Embed WHS practice into pedagogy, and formal requirements into assessment</li>
+<li>Staff recruitment, workload allocation, casual staffing</li>
+<li>Budget oversight and planning for Art</li>
+<li>Academic oversight of gallery and exhibitions program</li>
+<li>Site management and public / stakeholder liaison</li>
+<li>Representing Art in school, college and university committees</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Course Coordinator Bachelor of Fine Arts (BFA) 2017-18 (School of Creative Arts)
+<ul style="list-style-type: circle;">
+<li>Facilitating and coaching staff in implementing new degree pedagogy</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Third Year Coordinator BFA 2015 - 17 (Tasmanian College of the Arts / School of Creative Arts)
+<ul style="list-style-type: circle;">
+<li>Coordinating delivery of and assessment moderation of third year majors.</li>
+<li>Working party to develop new BFA efficient structure and contemporary pedagogy</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Deputy Head of School 2010 - 11 (Tasmanian School of Art)</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;" width="112"> </td>
+<td style="width: 2.64993%; height: 108px;" width="19"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Course Coordinator Bachelor of Visual Communication (BVC) 2007 - 2013 (Tasmanian School of Art / Tasmanian College of the Arts)
+<ul style="list-style-type: circle;">
+<li>Course administration, development and quality assurance</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;" width="112"> </td>
+<td style="width: 2.64993%; height: 108px;" width="19"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Coordinator Teaching and Learning / Course Coordinator Bachelor of Fine Arts (BFA) 2007 - 2011 (Tasmanian School of Art) 
+<ul style="list-style-type: circle;">
+<li>Course review and subsequent significant amendment to BFA structure</li>
+<li>Academic staff workload allocation</li>
+<li>Casual staff allocation and budgeting</li>
+<li>Unit offerings and assessment QA, preparation of course reports</li>
+<li>Introduction of Criterion Referenced Assessment practices</li>
+<li>Student administration  and counselling</li>
+<li>Major building redevelopment and co-location TasTafe Creative Arts (2009-11 “Pathways Project) – program and facilities, planning / coordinating academic delivery and facilities management.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">
+<ul style="list-style-type: circle;">
+<li>PhD Candidature 2003 – 2008
+<ul style="list-style-type: circle;">
+<li>PhD Candidature completed in 2.5 years full time equivalent, whilst working full time.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Studio Head Electronic Media 2000 - 2006 and 2012 - 17 (Tasmanian School of Art)
+<ul style="list-style-type: circle;">
+<li>E-Media established as a major within the BFA (from Computing in Art and Video) with an extensive menu of interdisciplinary digital technology electives.  Oversight for school computer systems and services, production facilities, unit development and delivery, casual academic staffing and technical officers.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;" width="112"> </td>
+<td style="width: 2.64993%; height: 108px;" width="19"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Timetable coordinator (1995 - 2011, 2017 -).  Not a glamourous job, but a well-structured timetable plays a key role in student retention and progression</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Lecturer Computing in Art 1994 - 1999 (Tasmanian School of Art)
+<ul style="list-style-type: circle;">
+<li>Develop and delivered a broad range of digital technology elective units and external short courses in Digital Imaging, WWW design, 2D Animation, 3D Animation.  Hosted two ANAT summer schools during that time.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">
+<ul style="list-style-type: circle;">
+<li>DARF 1994 - 2002 (Tasmanian School of Art)
+<ul style="list-style-type: circle;">
+<li>Founded DARF, (Digital Art Research Facility), focused on exploring the image making potential of the digital image and large format inkjet printing.  DARF involved academics and RHD candidates from painting, printmaking, photography, art theory backgrounds, who “loosely” collaborated to explore the image making and aesthetic potentials of large format inkjet printing.  DARF received three “small” arc grants and the first visual arts practice led large ARC grant in Australia.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">
+<ul style="list-style-type: circle;">
+<li>Teaching: Bachelor of Fine Arts, Bachelor of Visual Communications, Bachelor of Time-Based Media 1994 -
+<ul style="list-style-type: circle;">
+<li>More than 30 new units developed and delivered. Content ranges from specific technical skills in CAD and rapid prototyping technologies through to units that focus on generalist skills of creativity, ideation and project development and resolution.</li>
+<li>Delivery modes include computer laboratories, studio face to face, blended and online units.</li>
+<li>Over this teaching practice have developed skills in engaging students with diverse interests and abilities with meaningful creative engagement with technology through developing assessment tasks and criteria that are lucid but challenging allowing a diversity of approaches and outcomes.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">1990-93</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">CSIRO Division of Oceanography (Network development and management)</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">1985-90</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">CSIRO Division of Oceanography (Numerical Modelling of coastal hydrodynamic systems)</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"><strong>Boards</strong></td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2017-</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">Contemporary Art Tasmania</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2008-2017</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">Salamanca Art Centre</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"><strong>Solo Exhibitions</strong></td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"> </td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2017</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Prototypes for Immortality: Towards a Distributed and Evolving Self</em>, (with Svenja Kratz), The Cube, QUT, Kelvin Grove , QLD</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2014</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Non Instrumental</em>, Penny Contemporary, Hobart, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2013</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Conversations in the Dark</em>, Rosny Barn, Dark MOFO Festival, Hobart, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2013</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Tools my Father gave me</em>, Penny Contemporary, Hobart, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2012</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Tautologous</em>, S.P.A.C.E. Gallery, Scotch Oakburn College, Launceston, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2011</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>In the Guise of Thought</em>, CAST Gallery, Hobart, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2009</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Gloss</em>, Criterion Gallery, Hobart, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>The Conditions of Ambient Cognition</em>, Morris Miller Library, University of Tasmania, Hobart</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2000</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Sleeper</em>, Linden Gallery, Melbourne, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;" width="112"><strong>Curated Group Exhibitions</strong></td>
+<td style="width: 2.64993%; height: 108px;" width="19"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625"> </td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2019</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Spare Parts</em>, Science Gallery, Kings College London, UK (with Svenja Kratz)</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2018</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Systematic</em>, Plimsoll Gallery, Hobart Australia, Touring to regional centres in 2019</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2017</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Remanance</em>, Domain House, Ten Days on the Island, Hobart Australia (with Joseph Shrimpton) </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Microbites of Innovation</em>, ArtScience Museum, Singapore</td>
+</tr>
+<tr style="height: 137px;">
+<td class="align-right" style="width: 21.3389%; height: 137px;" width="112">2016</td>
+<td style="width: 2.64993%; height: 137px;" width="19"> </td>
+<td style="width: 75.8717%; height: 137px;" width="625"><em>New Alchemists</em>, Long Gallery, Salamanca Art Centre, Hobart Australia (with Nadege Phillipe-Jamon) - Touring to UQ Art Museum, Devonport Regional Gallery, Flinders University City Gallery</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2014</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>New Makings</em>, Plimsol Gallery, Hobart, Australia and Art Gallery, Univeriti Pendidikan Sultan Idris, Malaysia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2010</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Seeing Double</em>, Plimsol Gallery, Hobart, Australia and Art Gallery, Univeriti Pendidikan Sultan Idris, Malaysia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2006</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Quote</em>, Long Gallery, Salamanca Arts Centre, Hobart, Australia, 13/8/06 - 10/9/06, curated by Colin Langridge</td>
+</tr>
+<tr style="height: 137px;">
+<td class="align-right" style="width: 21.3389%; height: 137px;" width="112">2006</td>
+<td style="width: 2.64993%; height: 137px;" width="19"> </td>
+<td style="width: 75.8717%; height: 137px;" width="625"><em>Unsharp Unconscious</em>, Ian Potter Gallery, Queen Victoria Museum and Art Gallery, Launceston, Australia, 13/5/06 - 9/7/05, Queensland Centre for Photogaphy, Brisbance, Queensland, 19/8/06 - 10/9/06, curated by Matthew Perkins</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2005</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Resonator</em>, Long Gallery, Salamanca Arts Centre, Hobart, 25/8/05 - 11/9/05, Australia, curated by Derek Hart</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2003</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>JET: Fine art Digital Prints</em>, Carnegie Gallery, Hobart, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">2002</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Transit Narratives</em>, Centre for Culture and visual Arts, Trevisio, Italy</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">2000</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Intergraphia 2000</em>, Cracow, Poland</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Cracow International Print Triennale</em>, Cracow, Poland</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Sapporo 5<sup>th</sup> International Print Biennale</em>, Museum of Modern Art, Sapporo, Japan</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">1999</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Rena Ellen Jones Memorial Print Award Exhibition</em>, Warnambool City Art gallery, Warnambool, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112">1998</td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Fremantle Print Prize,</em> Fremantle Arts Centre, Fremantle, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Sapporo 4th International Print Biennale</em>, Museum of Modern Art, Sapporo Japan</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Recent work from the Digital Art Research Facility</em>, Fine Arts gallery, University of Tasmania, Hobart, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">1997</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Nought plus One</em>, Plimsoll Gallery, University of Tasmania, Hobart, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Fremantle Print Prize</em>, Fremantle Arts Centre, Fremantle, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>ArCadeII,</em> University of Brighton, United Kingdom, touring 6 venues throughout the UK and to Moscow</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">1996</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>ISEA 96</em>, International Symposium of Electronic Arts, Rotterdam, Netherlands</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"> </td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"><em>Fremantle Print Prize</em>, Fremantle Arts Centre, Fremantle, Australia</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;" width="112">1995</td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"><em>Beep &amp; Click</em>, Entrepot Gallery, University of Tasmania, Hobart, Australia</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;"> </td>
+<td style="width: 2.64993%; height: 50px;"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;">Publications</td>
+<td style="width: 2.64993%; height: 50px;"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 166px;">
+<td class="align-right" style="width: 21.3389%; height: 166px;">2018</td>
+<td style="width: 2.64993%; height: 166px;"> </td>
+<td style="width: 75.8717%; height: 166px;" width="625"><em>STEAM horizons: Boundary conditions and transitions</em>, Wise, K and MacDonald, A and Holmstrom, N and Brown, N and Hart, B and Kratz, S and Polley, J and Fountain, W and Tregloan, K, 2018 ACUADS Conference Program, 27-28 September 2018, Perth, WA, Australia, pp. 22. (2018)</td>
+</tr>
+<tr style="height: 137px;">
+<td class="align-right" style="width: 21.3389%; height: 137px;">2017</td>
+<td style="width: 2.64993%; height: 137px;"> </td>
+<td style="width: 75.8717%; height: 137px;" width="625"><em>An autonomous writing machine,</em> Hart, W, Kratz S and Horsley A, Proceedings of the 2017 ACM SIGCHI Conference on Creativity and Cognition, 27-30 June 2017, Singapore, pp. 469-470. ISBN 978-145034403-6 (2017)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;">2011</td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625"><em>Constructing Experience: Art and Digital Literacy</em>,  ACUADS 2011 Conference Proceedings, 21-23 September 2011, Canberra, pp. 1-6. ISBN 978-0-9758360-7-1 (2011)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;"> </td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625"><em>The Neuro-Logic of Software Art,</em> ISEA2011 Istanbul Conference Proceedings, Leonardo Electronic Almanac, 14-21 September 2011, Istanbul, pp. 1-5. ISSN 1071-4391 (2011)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;"> </td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625"><em>Idols and Art: The Cognitive Fetish</em>, ISEA2011 Istanbul Conference Proceedings, Leonardo Electronic Almanac, 14-21 September 2011, Istanbul, pp. 1-3. ISSN 1071-4391 (2011)</td>
+</tr>
+<tr style="height: 137px;">
+<td class="align-right" style="width: 21.3389%; height: 137px;">2009</td>
+<td style="width: 2.64993%; height: 137px;"> </td>
+<td style="width: 75.8717%; height: 137px;" width="625"><em>Software and Expression,</em>  Australian Council of University Art and Design Schools Research 09/10: Interventions in the Public Domain, September 2009, Brisbane, Queensland, pp. 60-63. ISBN 9781921291739</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;"> </td>
+<td style="width: 2.64993%; height: 50px;"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;"><strong>Selected Grants</strong></td>
+<td style="width: 2.64993%; height: 79px;"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;">2020</td>
+<td style="width: 2.64993%; height: 50px;"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625">ArtsTasmania Artist in Schools Residency ($10,000)</td>
+</tr>
+<tr style="height: 137px;">
+<td class="align-right" style="width: 21.3389%; height: 137px;">2019</td>
+<td style="width: 2.64993%; height: 137px;"> </td>
+<td style="width: 75.8717%; height: 137px;" width="625">UTAS, CALE HotHouse with Wise, CJE, Brown, NK, MacDonald, AJ, Hart, W, Kratz, SJ, Fountain, WG - STEAM <em>HORIZONS: Engagement and Alignment through Interdisciplinary Education</em> ($12,000)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;">2015</td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">UTAS, Teaching Development Grant - Bleach, L, Hart, W, Hogan, J - <em>TinkerGym:  An innovative testing ground for studio based teaching and learning that crosses disciplinary borders</em>, ($7000)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;">2013</td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">Australia Council - New Work Grant - Reverie: Develop a deeply immersive artwork using bespoke software, biofeedback and virtual reality ($20,000)</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;">2004</td>
+<td style="width: 2.64993%; height: 79px;"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">Australia Council - Professional Development Grant - Attend and Participate in ISEA 2004 Symposium (Helsinki) ($5000)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;">2003</td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">UTAS - Institutional Research Grant with M. Milojevic - <em>Prototype Imaging Software and Methodologies for Rendering Images with Lithographic Marks</em> ($13,500)</td>
+</tr>
+<tr style="height: 137px;">
+<td class="align-right" style="width: 21.3389%; height: 137px;">2002</td>
+<td style="width: 2.64993%; height: 137px;"> </td>
+<td style="width: 75.8717%; height: 137px;" width="625">UTAS - Institutional Research Grant with D. Stephenson - Non-linear Temporal Imagery - <em>Development of New Modes of Visual Image Construction and Representation through Interactive Digital Displays</em> ($17,000)</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;">1997</td>
+<td style="width: 2.64993%; height: 79px;"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">Large ARC - with M. Scott and G. Parr, <em>Characterisation of formal digital mesostructures in computer generated images</em>. ($92,500)</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;">1996</td>
+<td style="width: 2.64993%; height: 79px;"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">Small ARC - with G.Parr - <em>Characterisation of digital mesostructures in computer generated images</em> ($10,000)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;">1996</td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">Small ARC - with M. Scott and M. Milojevic - <em>The application of traditional painting and printmaking layering techniques to digital printing technologies</em> ($26,000)</td>
+</tr>
+<tr style="height: 79px;">
+<td class="align-right" style="width: 21.3389%; height: 79px;">1995</td>
+<td style="width: 2.64993%; height: 79px;"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">Small ARC - <em>Process as imprint in the digital image</em> - with G.Parr ($16,000)</td>
+</tr>
+<tr style="height: 108px;">
+<td class="align-right" style="width: 21.3389%; height: 108px;">1995</td>
+<td style="width: 2.64993%; height: 108px;"> </td>
+<td style="width: 75.8717%; height: 108px;" width="625">Small ARC - <em>The application of Fine Art formal analysis to pictorial and symbolic representations used in computer aided visualisation</em> ($12,000)</td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;"> </td>
+<td style="width: 2.64993%; height: 50px;"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 50px;">
+<td class="align-right" style="width: 21.3389%; height: 50px;" width="112"><strong>Prizes</strong></td>
+<td style="width: 2.64993%; height: 50px;" width="19"> </td>
+<td style="width: 75.8717%; height: 50px;" width="625"> </td>
+</tr>
+<tr style="height: 79px;">
+<td style="width: 21.3389%; height: 79px;" width="112"> </td>
+<td style="width: 2.64993%; height: 79px;" width="19"> </td>
+<td style="width: 75.8717%; height: 79px;" width="625">Grand Prize Winner, Sapporo 4th International Print Biennale 1998</td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
