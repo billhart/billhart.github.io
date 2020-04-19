@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bill Hart - Art and Technology</title>
-    <link href="https://billhart.github.io/billhart.github.io/feed.xml" rel="self" />
-    <link href="https://billhart.github.io/billhart.github.io" />
-    <updated>2020-04-19T18:20:10+10:00</updated>
+    <link href="https://billh.art/feed.xml" rel="self" />
+    <link href="https://billh.art" />
+    <updated>2020-04-19T18:21:58+10:00</updated>
     <author>
         <name>Bill Hart</name>
     </author>
-    <id>https://billhart.github.io/billhart.github.io</id>
+    <id>https://billh.art</id>
 
     <entry>
         <title>Trespass</title>
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billhart.github.io/billhart.github.io/trespass.html"/>
-        <id>https://billhart.github.io/billhart.github.io/trespass.html</id>
+        <link href="https://billh.art/trespass.html"/>
+        <id>https://billh.art/trespass.html</id>
             <category term="video"/>
             <category term="art works"/>
             <category term="1992"/>
@@ -38,8 +38,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billhart.github.io/billhart.github.io/wire-and-water.html"/>
-        <id>https://billhart.github.io/billhart.github.io/wire-and-water.html</id>
+        <link href="https://billh.art/wire-and-water.html"/>
+        <id>https://billh.art/wire-and-water.html</id>
             <category term="video"/>
             <category term="art works"/>
             <category term="1992"/>
@@ -64,8 +64,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billhart.github.io/billhart.github.io/skills.html"/>
-        <id>https://billhart.github.io/billhart.github.io/skills.html</id>
+        <link href="https://billh.art/skills.html"/>
+        <id>https://billh.art/skills.html</id>
 
         <updated>2020-04-17T15:39:09+10:00</updated>
             <summary></summary>
@@ -76,8 +76,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billhart.github.io/billhart.github.io/curriculum-vitae.html"/>
-        <id>https://billhart.github.io/billhart.github.io/curriculum-vitae.html</id>
+        <link href="https://billh.art/curriculum-vitae.html"/>
+        <id>https://billh.art/curriculum-vitae.html</id>
 
         <updated>2020-04-17T15:34:11+10:00</updated>
             <summary>
