@@ -3,7 +3,7 @@
     <title>Bill Hart - Art and Technology</title>
     <link href="https://billh.art/feed.xml" rel="self" />
     <link href="https://billh.art" />
-    <updated>2020-04-19T18:21:58+10:00</updated>
+    <updated>2020-05-21T18:33:33+10:00</updated>
     <author>
         <name>Bill Hart</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billh.art/trespass.html"/>
-        <id>https://billh.art/trespass.html</id>
+        <link href="https://billh.art/trespass/"/>
+        <id>https://billh.art/trespass/</id>
             <category term="video"/>
             <category term="art works"/>
             <category term="1992"/>
@@ -38,8 +38,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billh.art/wire-and-water.html"/>
-        <id>https://billh.art/wire-and-water.html</id>
+        <link href="https://billh.art/wire-and-water/"/>
+        <id>https://billh.art/wire-and-water/</id>
             <category term="video"/>
             <category term="art works"/>
             <category term="1992"/>
@@ -64,8 +64,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billh.art/skills.html"/>
-        <id>https://billh.art/skills.html</id>
+        <link href="https://billh.art/skills/"/>
+        <id>https://billh.art/skills/</id>
 
         <updated>2020-04-17T15:39:09+10:00</updated>
             <summary></summary>
@@ -76,8 +76,8 @@
         <author>
             <name>Bill Hart</name>
         </author>
-        <link href="https://billh.art/curriculum-vitae.html"/>
-        <id>https://billh.art/curriculum-vitae.html</id>
+        <link href="https://billh.art/curriculum-vitae/"/>
+        <id>https://billh.art/curriculum-vitae/</id>
 
         <updated>2020-04-17T15:34:11+10:00</updated>
             <summary>
