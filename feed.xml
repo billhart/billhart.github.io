@@ -3,12 +3,75 @@
     <title>Bill Hart - Art and Technology</title>
     <link href="https://billh.art/feed.xml" rel="self" />
     <link href="https://billh.art" />
-    <updated>2020-05-26T17:38:05+10:00</updated>
+    <updated>2022-01-24T13:27:53+11:00</updated>
     <author>
         <name>Bill Hart</name>
     </author>
     <id>https://billh.art</id>
 
+    <entry>
+        <title>Prototype for A Philosophical Prosthesis 2017-22</title>
+        <author>
+            <name>Bill Hart</name>
+        </author>
+        <link href="https://billh.art/prototype-for-a-philosophical-prosthesis-2017-22/"/>
+        <id>https://billh.art/prototype-for-a-philosophical-prosthesis-2017-22/</id>
+            <category term="tinkering"/>
+            <category term="making"/>
+            <category term="generative art"/>
+            <category term="art works"/>
+            <category term="art machines"/>
+
+        <updated>2022-01-24T13:27:53+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://billh.art/media/posts/10/Sytematic-Prototype-for-a-Philosophical-Prosthesis-image-provided-by-artist-Bill-Hart.jpg" alt="" />
+                     My personal experience that the task of simulating vision and speech can reveal hidden things about human function inspired the notion that the computer can function as a sort of philosophical prosthesis. David Rokeby, 2003 The Computer as a Prosthetic Organ of Philosophy For the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://billh.art/media/posts/10/Sytematic-Prototype-for-a-Philosophical-Prosthesis-image-provided-by-artist-Bill-Hart.jpg" alt="" />
+                <blockquote>
+<p><em>My personal experience that the task of simulating vision and speech can reveal hidden things about human function inspired the notion that the computer can function as a sort of philosophical prosthesis.</em></p>
+<p><span style="text-align: right; color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">David Rokeby, 2003 </span><a href="http://www.dichtung-digital.de/2003/issue/3/Rokeby.htm" target="_blank" rel="noopener noreferrer" style="text-align: right; font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">The Computer as a Prosthetic Organ of Philosophy</a></p>
+</blockquote>
+<div class="page" title="Page 14">
+<div class="layoutArea">
+<div class="column">
+<p>For the past seventy odd years computers have been teaching us much about what it means to be human, often through their failure to be able to do many of<br>the tasks we take for granted as humans. In recent years though, there has been a surge in the capacity of computers to imitate human capacities in ways that we thought they would never be capable of. Technologies to understand speech, to translate between languages, to read emotion on human faces, to mimic your voice, or mannerisms, or even your handwriting.</p>
+<p>It is shocking how quickly society transitions its response to new technologies from the marvellous and dystopian to the quotidian.  </p>
+<p>My prosthesis is a machine that I developed over a number of years through a process of tinkering and reflection, which has been exhibited in a number of different venues and forms:</p>
+<ul>
+<li><a href="https://www.artlink.com.au/articles/4711/systematic/" target="null">"Systematic" review 2018, (touring regional Australia 2018-22) Artlink Magazine</a></li>
+<li><a href="https://london.sciencegallery.com/spare-parts" target="_blank" rel="noopener noreferrer">"Spare Parts" Science Gallery London 2019</a></li>
+<li><a href="http://cc.acm.org/2017/microbites/?Microbites_About" target="_blank" rel="noopener noreferrer">"Microbytes of Innovation", ArtScience Museum Singapore 2017</a></li>
+<li><a href="https://nitro.edu.au/articles/2017/7/6/art-science-towards-a-meaningful-and-mutual-exchange" target="_blank" rel="noopener noreferrer">"Biosynthetic Systems", QUT Kelvin Grove 2017</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div style="padding: 56.25% 0 0 0; position: relative;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/202497054?h=41b3466f0b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen" title="First Writing Machine tests for Biosynthetic Systems" data-mce-fragment="1"></iframe></div></div>
+<div> </div>
+<div>In the summer of 2017 I came across an academic "paper with code", by a leading machine learning expert Alex Graves, entitled <a href="https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural" target="_blank" rel="noopener noreferrer">"Generating Sequences with Neural Networks"</a>.  Research papers in computer science with code are a fantastic resource for finding technological advances in computer science that may never find the mainstream.  Grave's paper reduces handwriting to a sequence of numbers related to the abstract symbols writing represents.  Once trained on these sequences a neural net can be used to predict a new sequence of numbers given a new sequence of symbols.  </div>
+<div>Based on previous tinkering with drawing machines and 3D printing I realised that I could construct a machine to draw these sequences and recreate the handwriting.  I found an efficient implementation of Grave's paper on Github, and using some leftover parts and a borrowed Makerbot 3D printer built a small machine to enact the generated handwriting.  Its an anachronistic and nostalgic machine, with a touch if steam-punk in form a combination of mechanical typewriter, teletype and the old Gestetner duplicating machines from my youth.  Its built from a combination of scavenged parts from an old Textronix solid wax digital printer and a large format inkjet printer from the 90's, some 3D printed parts and "makerware", electronics, aluminium extrusions and connectors used to build DIY CNC machines and 3D printers.</div>
+<div> </div>
+<div>Before the laser or inkjet printer, computers used fanfold paper for printouts, fanfold paper has "sprocket" holes that allow paper to be "tractor fed" through the printer.  I envisaged something like an oracle crossed with a teletype machine, the machine would produce a never ending stream of writing which would flow out onto the floor below the machine.</div>
+<div> </div>
+<div><figure class="post__image"><img loading="lazy"  src="https://billh.art/media/posts/10/prosthesis.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://billh.art/media/posts/10/responsive/prosthesis-xs.jpg 300w ,https://billh.art/media/posts/10/responsive/prosthesis-sm.jpg 480w ,https://billh.art/media/posts/10/responsive/prosthesis-md.jpg 768w ,https://billh.art/media/posts/10/responsive/prosthesis-lg.jpg 1024w ,https://billh.art/media/posts/10/responsive/prosthesis-xl.jpg 1360w ,https://billh.art/media/posts/10/responsive/prosthesis-2xl.jpg 1600w"  alt="" width="1000" height="666"></figure></div>
+<div> </div>
+<div>To generate the text it would write I used another type of neural network, again a "paper with code", <a href="https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural">Char-RNN</a> (there are several other approaches, such as statistical methods called Markov Chains).  This neural network is trained on a 'corpus' of texts from which it can then generate novel versions.  Give it enough text for training and it can produce novel sentences which sometimes make sense.  In all the generative systems I work with I search for the place where unexpected conjunctions can arise, in this case if you like where there is a possibility that a brief glimpse of something profound could emerge from the nonsense.  In the time since I started experimenting with Char-RNN, AI text generation systems have become mainstream, notably GPT-2 and GPT-3 from DeepMind and popularised through sites such as <a href="https://app.inferkit.com/demo" target="_blank" rel="noopener noreferrer">"Talk to Transformer"</a>.</div>
+<div> </div>
+<div>In the most resolved form of the work as exhibited in the touring exhibition <em>Systematic</em>, I envisaged the machine as an oracle, a tongue in cheek prophet for our age.  Observing how stuck we have become in our political and social discourse, in the failure for new political philosophies to emerge to address the challenges of the contemporary world, could a philosophical "cut up" machine generate a new approach.  To build a corpus on which to train my network I borrowed a range of classical philosophical texts from Marcus Aurelius to Sun Tzu and threw in some of the major 19th and 20th century political manifestos and added in some 20th century dystopian fiction.  One interesting aspect of neural networks is that they are not deterministic, every time you train one, it has different characteristics.  Some versions I had some problematic characteristics such as using what could be interpreted as hate speech, and so needed some careful vetting to make sure they would be acceptable.</div>
+<div> </div>
+<div>On a final technical note, I managed to cram both trained neural networks and control software into a hacked Nvidia Shield TV, which is a low cost Smart TV device the size of a large phone.</div>
+<div> </div>
+<p>
+<script src="https://player.vimeo.com/api/player.js"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Services</title>
         <author>
@@ -22,16 +85,38 @@
         <content></content>
     </entry>
     <entry>
-        <title>PhD</title>
+        <title>Knowledge, Knowing and Being: Software Art as a vehicle for the investigation of emerging concepts in Cognition</title>
         <author>
             <name>Bill Hart</name>
         </author>
         <link href="https://billh.art/phd/"/>
         <id>https://billh.art/phd/</id>
+            <category term="writing"/>
+            <category term="generative art"/>
 
-        <updated>2020-05-26T12:16:20+10:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-05-27T13:03:20+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://billh.art/media/posts/8/DE1506B3-F801-439D-99E2-945E1EFE3360_1_105_c.jpeg" alt="" />
+                    A PhD via studio practice has as doctorates normally do a thesis as an outcome. For art the thesis consists of two parts, a group of artworks that comprise the body of the thesis and an explanatory document called the exegesis which constructs a context&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://billh.art/media/posts/8/DE1506B3-F801-439D-99E2-945E1EFE3360_1_105_c.jpeg" alt="" />
+                <p>A PhD via studio practice has as doctorates normally do a thesis as an outcome.  For art the thesis consists of two parts, a group of artworks that comprise the body of the thesis and an explanatory document called the exegesis which constructs a context for the artwork and helps articulate why it is "new knowledge".  I completed my PhD candidature in mid 2008.  </p>
+<p>Below is my abstract for this project containing links to the completed works, and after that links to the full exegesis and documentation of the development of the works that comprised the thesis.</p>
+<p><em>The development of the computer has had a major impact on almost all aspects of knowledge and culture: it has had a profound impact on our understanding of complexity and intelligence; and the computer is a mirror made from what we thought we knew about ourselves, often defining us by revealing what we are not.</em></p>
+<p><em>Artists have been exploring the computer as a medium of expression for over forty years, yet for most of that time Software Art (expression through programming) and its antecedents has oscillated between formalism and techno-utopianism. The practise of software art is based in formal language: the manipulation of symbols and logic. Expression of intuition in a distinctive form is often confounded in this medium.</em></p>
+<p><em>This project considers the metaphorical representation of cognitive process (the codes of knowledge, the processes of knowing, and the states of being) in the mirror of computation and in the light of insights and theories about language and cognition that have emerged from our interaction with the universal machine. Through making the works that form this thesis an expressive open-ended methodology for software poiesis has been developed.</em></p>
+<p><em>The thesis consists of four works, constructed from software and manifested on flat panel displays as temporal images. <a href="../mv/ambient/default.htm">The Conditions for Ambient Cognition</a> has four parts: <a href="../mv/faith/default.htm">Faith in Reason</a>, <a href="../mv/drift/default.htm">Ontological Drift</a>, <a href="../mv/seepage/default.htm">Dialectic Seepage</a>, and <a href="../mv/transcendental/default.htm">Transcendental Jitters</a> . The four parts follow processes of cognition and being; perception, sensation, communication, action. The second work <a href="../stories/stories-final/default.htm">Stories about You</a> is a meditation on the construction of personal and social consciousness; <a href="../flow/sense/default.htm">Communal Sense</a> considers the communication of knowledge and development of understanding. The fourth work <a href="../wordsofart/transient/default.htm">The Transient Taxonomies of Art</a> is an examination of the concept of an ecology of ideas.</em></p>
+<p><em>The final works reflect a group of emerging theories of cognition, which are collected under the title of Distributed Cognition, and are based on insights that all communication is based in context rather than code, and similarly all cognition is context dependent, not just through embodiment but also across artefacts and social groups.</em></p>
+<p><em>The outcomes of this project demonstrate the application of the methodological process, and contribute towards the development of a more fluid, expressive and less proscribed form of practise in software art. This methodology is independent of a particular set of software, but does suggest a process for the evaluation of software tools and environments, so that it can continue to be applied as software develops. A related aspect is the consideration and selection of the material qualities of software, algorithms and numerical function, which can be used to enhance the work and give it a distinctive quality.</em></p>
+<p><em>The consideration of contemporary art discourse and practice in light of Distributed Cognition is potentially a fruitful source of new insight but has not been considered in depth here. It offers a flexible and open-ended conceptual model for the further development of the work presented here.</em></p>
+<p><em>The concept of "open-endedness" that has emerged from the considerations of the materials of software art is crucial to resolving the confusion between algorithmic behaviour and novelty in software art.</em></p>
+<p><em>This research has shown that with a greater understanding of the nature of complexity, and the semantics of expression through formal language, the medium can develop into a mature and distinctive form. Potentially Software Art can exert a wider influence on our understanding of ourselves, our coexistence with the computer, its future application and development.</em></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>My Practice</title>
@@ -65,7 +150,7 @@
         <content type="html">
             <![CDATA[
                 <p> </p>
-<p><em><iframe width="640" height="512" src="https://player.vimeo.com/video/118452224" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe>Trespass</em>, 1992, Another analogue video I made as a second year BFA student.   Shot in and around Remarkable Cave, Tasman Peninsula, Tasmania. A bunch of local boys having fun throwing video cameras off cliffs and also considering their identity at a time of emerging awareness of indigenous culture. Tasman peninsula is a special place; site of extraordinary beauty, massacres, brutal penal colonies and honeymooners swept from the rocks by freak waves.</p>
+<p><em><div class="post__iframe"><iframe loading="lazy" width="640" height="512" src="https://player.vimeo.com/video/118452224" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></div>Trespass</em>, 1992, Another analogue video I made as a second year BFA student.   Shot in and around Remarkable Cave, Tasman Peninsula, Tasmania. A bunch of local boys having fun throwing video cameras off cliffs and also considering their identity at a time of emerging awareness of indigenous culture. Tasman peninsula is a special place; site of extraordinary beauty, massacres, brutal penal colonies and honeymooners swept from the rocks by freak waves.</p>
             ]]>
         </content>
     </entry>
@@ -90,7 +175,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://billh.art/media/posts/4/wire_and_water_large.jpg" alt="" />
-                <p><iframe width="640" height="512" src="https://player.vimeo.com/video/118452222" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="512" src="https://player.vimeo.com/video/118452222" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></div>
 <p>This is an analogue video I made as a second year BFA student - its still a favourite of mine.</p>
 <p>You don't have to have sophisticated digital technology to create visual effects. Simple keying and shooting through a fish tank filled with water creates the rippling text.</p>
 <p>One of the most interesting trends in the past few years is the move to working with hybrid approaches to media.</p>
@@ -121,7 +206,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://billh.art/media/posts/2/guise-front-002.jpg" alt="" />
-                    Education 2008 Ph.D., University of Tasmania, Thesis: Knowledge, Knowing and Being: An Investigation of Software Art as Vehicle for the Exploration of Emerging Concepts in Language and Cognition1984 B. Sc. (Hons) Theoretical Phyisics, University of Tasmania Employment 1994-2020 University of Tasmania Head of Discipline Art 2018 (School of&hellip;
+                     Education 2008 Ph.D., University of Tasmania, Thesis: Knowledge, Knowing and Being: An Investigation of Software Art as Vehicle for the Exploration of Emerging Concepts in Language and Cognition 1984 B. Sc. (Hons) Theoretical Phyisics, University of Tasmania Employment 1994-2020 University of Tasmania Head of&hellip;
                 ]]>
             </summary>
         <content type="html">
